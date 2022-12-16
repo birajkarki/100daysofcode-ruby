@@ -80,5 +80,17 @@ Choose a project to work on and apply what you have learned to build a real-worl
 This is just a rough outline and will adjust the pace and create more projects too.  
 
 
+Why am I doing this?
+
+Well, writing functional code is simple (most of the time). But creating code that is effective, succinct, clear, scalable, and maintainable is exceedingly challenging. Along with being fluent in the coding language, it might help to have a lot of experience with different kinds of challenges and paradigms. In order to step outside of my comfort zone and broaden my perspective on the vast field of software development, I made the decision to decide to code every day.
+
+
+Why Ruby?
+
+Why not Ruby is the proper question. Ruby is stunning from top to bottom, including its name, logo, and syntax. I really like Syntax Sugar, and I find myself missing it while I am programming in another language. In addition, a lot of big players use Ruby, which has a substantial library and a large community (like Github).
+
+So, let's code?
+
+![image](https://user-images.githubusercontent.com/65703910/208177260-eb492d7a-1f68-404f-8539-1a99ab456b68.png)
 
 – the most important thing is to have fun and enjoy the learning process!
