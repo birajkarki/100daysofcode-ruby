@@ -10,7 +10,7 @@ puts my_num
 puts my_boolean
 puts my_string
 
-puts "hello" 
+puts "helloo" 
  
 
 my_num = 2 + 3
