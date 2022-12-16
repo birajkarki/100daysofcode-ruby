@@ -8,6 +8,7 @@
 
 
 Twitter : https://twitter.com/thelifeofbiraj
+![image](https://user-images.githubusercontent.com/65703910/208176162-0c059fd7-595e-4bc9-9430-a27f30630a73.png)
 
 
 Here is a rough outline for a 100-day plan for learning Ruby:
