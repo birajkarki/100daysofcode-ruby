@@ -36,7 +36,7 @@ puts name
 name = "biraj" #this is my name
 puts name
 
-sum = 13 + 379
+sum = 13 + 37922
 product = 923 * 15
 quotient = 13209 /17
 
