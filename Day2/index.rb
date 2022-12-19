@@ -1,6 +1,6 @@
 def alternating_characters?(s)
-    type = [/[aeiou]/, /[^aeiou]/].cycle
-    if s.start_with?(/[^aeiou]/)
+    type = [/[biraj]/, /[^biraj]/].cycle
+    if s.start_with?(/[^biraj]/)
       type.next
     end
     s.chars.all? { |ch| ch.match?(type.next) }
@@ -19,7 +19,7 @@ end
 
 
 # loop until 
-$i = 0
+$i = 1
 $num = 5
 begin
    puts("Inside the loop i = #$i" )
