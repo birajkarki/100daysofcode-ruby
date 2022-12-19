@@ -12,5 +12,9 @@
 
 # Comments
 
-message = "Hello Biraj"
-puts message
+# message = "Hello Biraj"
+# puts message
+
+# irb -- to start ruby terminal  
+# .class -- shows data types 
+
