@@ -23,6 +23,8 @@ loop do
     cnt = cnt + 1;
 end
 
+
+  # program2
 # Ruby program to implement an infinite loop
 # using the while loop
 

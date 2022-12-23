@@ -11,7 +11,7 @@ if yr % 400 == 0
 elsif yr % 4 == 0 && yr % 100 !=0
 	puts "#{yr} is a leap year"
 else
-	puts "#{yr} is not a leap year"
+	puts "#{yr} is nnot a leap year"
 end
 
 
