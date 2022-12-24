@@ -1,13 +1,11 @@
 # Generate a random number between 1 and 100
 secret_number = rand(1..100)
 
-# Prompt the user to guess the number
+
 puts "Guess a number between 1 and 100:"
 
-# Read the user's guess
+# user's guess
 guess = gets.chomp.to_i
-
-# Keep track of the number of guesses
 num_guesses = 1
 
 # Loop until the user guesses the secret number
