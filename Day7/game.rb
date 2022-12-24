@@ -25,7 +25,6 @@ on :mouse_down do |event|
       size: 25,
       color: 'purple'
     )
-
     start_time = Time.now
     game_started = true
   end
