@@ -7,7 +7,7 @@
 
     # instance method by default it is public
     def getArea
-        getWidth() * getHeigh
+        getWidth() * getHeight
     end
 
     # define private accessor methods
