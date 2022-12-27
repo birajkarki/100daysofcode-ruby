@@ -12,7 +12,7 @@
 
     # define private accessor methods
     def getWidth
-        @widt
+        @width
     end
     def getHeight
         @height
